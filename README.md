@@ -4,8 +4,7 @@ This project demonstrates an end-to-end image classification pipeline using a Co
 
 ---
 ## Colab link :
-https://colab.research.google.com/drive/1APwxrVS3ThlsaQe8h70dC_nxXagG42AV?usp=sharing
-
+https://colab.research.google.com/drive/1u8S_FpiGfzO-CdTQxhREO03HuxadxaMW?usp=sharing
 ## 📁 Project Structure
 ```
 - *Source*: [Kaggle Dataset](https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
